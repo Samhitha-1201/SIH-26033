@@ -94,6 +94,9 @@ The platform aims to transform farmers from isolated sellers into organized mark
 6. The Transparent Price Tracker records farmer earnings, transport cost, platform charge and final buyer price separately.
 7. The Rescue Harvest Alert monitors each lot's spoilage window and notifies buyers and processing units when produce is close to spoiling
 
+<img width="1080" height="1144" alt="WhatsApp Image 2026-11-24 at 21 41 24" src="https://github.com/user-attachments/assets/4e964398-59b3-49e4-9962-946ee25ba470" />
+
+
 ## Feasibility and Viability
 
 1. Analysis of the feasibility of the idea
